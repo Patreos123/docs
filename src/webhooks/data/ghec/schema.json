@@ -62389,6 +62389,11 @@
               ]
             },
             {
+              "type": "string or null",
+              "name": "parent_issue_url",
+              "description": "<p>URL to get the parent issue of this issue, if it is a sub-issue</p>"
+            },
+            {
               "type": "object",
               "name": "issue_dependencies_summary",
               "description": "",
@@ -64436,6 +64441,11 @@
                   "isRequired": true
                 }
               ]
+            },
+            {
+              "type": "string or null",
+              "name": "parent_issue_url",
+              "description": "<p>URL to get the parent issue of this issue, if it is a sub-issue</p>"
             },
             {
               "type": "object",
@@ -67348,6 +67358,11 @@
               ]
             },
             {
+              "type": "string or null",
+              "name": "parent_issue_url",
+              "description": "<p>URL to get the parent issue of this issue, if it is a sub-issue</p>"
+            },
+            {
               "type": "object",
               "name": "issue_dependencies_summary",
               "description": "",
@@ -69395,6 +69410,11 @@
                   "isRequired": true
                 }
               ]
+            },
+            {
+              "type": "string or null",
+              "name": "parent_issue_url",
+              "description": "<p>URL to get the parent issue of this issue, if it is a sub-issue</p>"
             },
             {
               "type": "object",
@@ -72307,6 +72327,11 @@
               ]
             },
             {
+              "type": "string or null",
+              "name": "parent_issue_url",
+              "description": "<p>URL to get the parent issue of this issue, if it is a sub-issue</p>"
+            },
+            {
               "type": "object",
               "name": "issue_dependencies_summary",
               "description": "",
@@ -75160,6 +75185,11 @@
                   "isRequired": true
                 }
               ]
+            },
+            {
+              "type": "string or null",
+              "name": "parent_issue_url",
+              "description": "<p>URL to get the parent issue of this issue, if it is a sub-issue</p>"
             },
             {
               "type": "object",
@@ -77266,6 +77296,11 @@
               ]
             },
             {
+              "type": "string or null",
+              "name": "parent_issue_url",
+              "description": "<p>URL to get the parent issue of this issue, if it is a sub-issue</p>"
+            },
+            {
               "type": "object",
               "name": "issue_dependencies_summary",
               "description": "",
@@ -80119,6 +80154,11 @@
                   "isRequired": true
                 }
               ]
+            },
+            {
+              "type": "string or null",
+              "name": "parent_issue_url",
+              "description": "<p>URL to get the parent issue of this issue, if it is a sub-issue</p>"
             },
             {
               "type": "object",
@@ -259877,6 +259917,11 @@
               ]
             },
             {
+              "type": "string or null",
+              "name": "parent_issue_url",
+              "description": "<p>URL to get the parent issue of this issue, if it is a sub-issue</p>"
+            },
+            {
               "type": "object",
               "name": "issue_dependencies_summary",
               "description": "",
@@ -262730,6 +262775,11 @@
                   "isRequired": true
                 }
               ]
+            },
+            {
+              "type": "string or null",
+              "name": "parent_issue_url",
+              "description": "<p>URL to get the parent issue of this issue, if it is a sub-issue</p>"
             },
             {
               "type": "object",
@@ -264833,6 +264883,11 @@
               ]
             },
             {
+              "type": "string or null",
+              "name": "parent_issue_url",
+              "description": "<p>URL to get the parent issue of this issue, if it is a sub-issue</p>"
+            },
+            {
               "type": "object",
               "name": "issue_dependencies_summary",
               "description": "",
@@ -267688,6 +267743,11 @@
               ]
             },
             {
+              "type": "string or null",
+              "name": "parent_issue_url",
+              "description": "<p>URL to get the parent issue of this issue, if it is a sub-issue</p>"
+            },
+            {
               "type": "object",
               "name": "issue_dependencies_summary",
               "description": "",
@@ -269787,6 +269847,11 @@
                   "isRequired": true
                 }
               ]
+            },
+            {
+              "type": "string or null",
+              "name": "parent_issue_url",
+              "description": "<p>URL to get the parent issue of this issue, if it is a sub-issue</p>"
             },
             {
               "type": "object",
@@ -272642,6 +272707,11 @@
                   "isRequired": true
                 }
               ]
+            },
+            {
+              "type": "string or null",
+              "name": "parent_issue_url",
+              "description": "<p>URL to get the parent issue of this issue, if it is a sub-issue</p>"
             },
             {
               "type": "object",
@@ -274745,6 +274815,11 @@
               ]
             },
             {
+              "type": "string or null",
+              "name": "parent_issue_url",
+              "description": "<p>URL to get the parent issue of this issue, if it is a sub-issue</p>"
+            },
+            {
               "type": "object",
               "name": "issue_dependencies_summary",
               "description": "",
@@ -277598,6 +277673,11 @@
                   "isRequired": true
                 }
               ]
+            },
+            {
+              "type": "string or null",
+              "name": "parent_issue_url",
+              "description": "<p>URL to get the parent issue of this issue, if it is a sub-issue</p>"
             },
             {
               "type": "object",
